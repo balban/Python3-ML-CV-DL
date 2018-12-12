@@ -5,7 +5,7 @@ Usually it takes a lot of effort and time to compile differet libararies on the 
 This is Python 3.6 along with libararies which are most frequently used/ required in the Computer Vision, Machine Learning and Deep Learning. 
 
 <b>How:</b> </br>
-Download all zip files (file limit is only 100MB, thats why split files), and Extract with any Zip supported decompressor software (windows has also built-in support).
+Download zip files from 001 to 004 (file limit is only 100MB, thats why split files), and Extract with any Zip supported decompressor software (windows has also built-in support).
 
 Just extract it to Hard drive and browse the path to extracted folder in your favorite Python IDE. You can all set Windows Envirenment for access phython through command line. 
 
